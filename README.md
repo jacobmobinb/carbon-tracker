@@ -1,2 +1,2 @@
-# suneng-carbon-tracker
+# carbon-tracker
 Sun Engineering Carbon Footprint Tracker
